@@ -11,7 +11,9 @@
 
   <name>Hello World</name>
 
+
   <description>A very basic Java program</description>
+
 
   <url>http://maven.apache.org</url>
 
