@@ -10,7 +10,9 @@
   <packaging>jar</packaging>
 
   <name>Hello World</name>
-  <description>A very basic Java program</description>
+
+  <description>A basic Java program created for demo</description>
+
   <url>http://maven.apache.org</url>
 
   <properties>
